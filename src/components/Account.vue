@@ -1,7 +1,6 @@
 <template>
   <v-container>
     <h1 class=display-3>{{this.items[0].data}}</h1>
-
   <div>
         <v-tabs
           v-model="active"
