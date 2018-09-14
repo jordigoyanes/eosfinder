@@ -1,6 +1,6 @@
 # eosfinder
 
-> Simple EOS Block explorer
+> Simple EOS Block explorer, this is WIP
 
 ## Build Setup
 
